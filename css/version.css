@@ -52,6 +52,7 @@
   var(--SeIc-info-loaded, "")
   var(--MeLi-info-loaded, "")
   var(--ChBu-info-loaded, "")
+  var(--SkFr-info-loaded, "")
   var(--SkFr-info-skin, "")
   var(--SkFr-info-author, "");
   font-size: 12px;
