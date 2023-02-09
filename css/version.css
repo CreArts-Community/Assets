@@ -53,6 +53,7 @@
   var(--MeLi-info-loaded, "")
   var(--ChBu-info-loaded, "")
   var(--Scripts-info-loaded, "")
+  var(--Emojis-info-loaded, "")
   var(--Skins-info-loaded, "")
   var(--Skins-info-skin, "")
   var(--Skins-info-author, "");
